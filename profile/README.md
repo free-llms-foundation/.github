@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./main_logo.png" width="350" alt="Free LLMs Foundation Logo" />
+  <img src="./main_logo.png" width="540" alt="Free LLMs Foundation Logo" />
   <br />
   <br />
   <h1>High-performance LLM tooling</h1>

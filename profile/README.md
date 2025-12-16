@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="./main_logo.png" width="540" alt="Free LLMs Foundation Logo" />
-  <br />
-  <br />
-  <h1>High-performance LLM tooling</h1>
-  <p>
-    Building the next generation of AI infrastructure.
-    <br />
-    <b>Simple. Concurrent. Production-ready.</b>
-  </p>
-</div>
-
----
-
 ## Engineering-First Approach
 We build tools for developers who need more than just a prototype. While Python dominates research, we focus on **production-grade infrastructure**.
 
